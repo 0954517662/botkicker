@@ -24,14 +24,14 @@ mid = me.getProfile().mid
 kicker1mid = kicker1.getProfile().mid
 kicker2mid = kicker2.getProfile().mid
 Bots=[mid,kicker1mid,kicker2mid]
-panel = "u0ac948397fbc732bd3bc5ca273faa698"
+panel = "u4862fe4b182b2fd194a3108e2f3662e8"
 Response = "\nrunnerBot\nline://nv/connectedDevices/"
-LineBots = "https://github.com/Aprank/botkicker"
+LineBots = "https://github.com/0954517662/botkicker"
 wait = {
     "contact":False,
     "autoJoin":False,
     "leaveRoom":False,
-    "respon":"http://line.me/ti/p/~adiputra.95",
+    "respon":"http://line.me/ti/p/~max_pv",
     "timeline":False,
     "autoAdd":True,
     'message':"""❂••••AUTO ADD BY CHANNEL PRANKBOTS••••❂\nhttps://www.youtube.com/channel/UCycBrqSWEHdk-slnhUmGWiQ\n❂•••JANGAN LUPA DI SUBCRABE YA••••❂""",
@@ -41,7 +41,7 @@ wait = {
     "wblack":False,
     "dblack":False,
     "clock":False,
-    "stiles":"|━━℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́в̰̰̈́❍̰̰̈́т̰̰̈́ѕ̰̰̈́━━|",
+    "stiles":"|━━℘̰̰̈́MAX❍̰̰̈́━━|",
     "blacklist":{},
     }
 wait2 = {
